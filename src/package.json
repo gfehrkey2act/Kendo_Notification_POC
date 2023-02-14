@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@progress/kendo-data-query": "latest",
+    "@progress/kendo-drawing": "latest",
+    "@progress/kendo-licensing": "latest",
+    "@progress/kendo-react-animation": "latest",
+    "@progress/kendo-react-buttons": "latest",
+    "@progress/kendo-react-data-tools": "latest",
+    "@progress/kendo-react-dateinputs": "latest",
+    "@progress/kendo-react-dropdowns": "latest",
+    "@progress/kendo-react-form": "latest",
+    "@progress/kendo-react-grid": "latest",
+    "@progress/kendo-react-inputs": "latest",
+    "@progress/kendo-react-intl": "latest",
+    "@progress/kendo-react-notification": "latest",
+    "@progress/kendo-react-popup": "latest",
+    "@progress/kendo-react-treeview": "latest",
+    "@progress/kendo-svg-icons": "latest",
+    "@progress/kendo-theme-material": "6.1.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "description": "Example usage of KendoReact\nSee [https://www.telerik.com/kendo-react-ui/components/knowledge-base/stack-and-hide-notifications/](https://www.telerik.com/kendo-react-ui/components/knowledge-base/stack-and-hide-notifications/)",
+  "tags": "React,KendoReact"
+}
